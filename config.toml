@@ -1,0 +1,48 @@
+baseURL = "https://brandonsnetwork.com/"
+languageCode = "en-us"
+title = "Brandon Lynch"
+theme = "hugo-coder"
+
+[params]
+	author = "Brandon Lynch"
+	info = "Everything IT"
+	description = "Brandon Lynch's personal website"
+	keywords = "network,it,brandon lynch"
+
+	colorScheme = "auto"
+
+[taxonomies]
+	category = "categories"
+
+[[params.social]]
+	name = "Github"
+	icon = "fa fa-github fa-2x"
+	weight = 1
+	url = "https://github.com/brandonlynch2402"
+	target = "_blank"
+[[params.social]]
+	name = "Twitter"
+	icon = "fa fa-twitter fa-2x"
+	weight = 3
+	url = "https://twitter.com/thenetcode"
+	target = "_blank"
+[[params.social]]
+	name = "LinkedIn"
+	icon = "fa fa-linkedin fa-2x"
+	weight = 3
+	url = "https://www.linkedin.com/in/brandon-lynch-it"
+	target = "_blank"
+
+[[menu.main]]
+	name = "About"
+	weight = 1
+	url = "about/"
+[[menu.main]]
+	name = "Certifications"
+	weight = 1
+	url = "certs/"
+[[menu.main]]
+	name = "Resume"
+	weight = 1
+	url = "resume.pdf"
+
