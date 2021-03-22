@@ -1,28 +1,26 @@
 ---
-title: "About"
+title: "About Me"
 date: 2020-12-14T12:45:18-06:00
 draft: true
 ---
 
-I'm currently a senior attending North Technical High School.
-I have a strong passion for IT (networking and Linux are my
-favorites at the moment) and I love learning.
+I am a senior at North Technical High School.
+I have a strong passion for IT and cybersecurity, and I love learning.
 
-My interest in technology started by building PCs and tinkering with
-software and operating systems when I was younger. After that,
-I just kept going. Around sophmore year of high school, I was
-seriously starting to learn web development. This is what I wanted
-to do as a career at the time. I used [freecodecamp](https://www.freecodecamp.org),
-which I believe is one of the best tools for learning web development.
-While learning so much on my own, I realized that I could learn anything
-I set out to. This only sparked my interest in other topics, and I wanted to
-learn more and more. Eventually, I found myself attending the Cisco
-Networking Academy. This is where I definitely found my passion in IT.
+My interest in technology started when I was young. I was fascinated
+with building PCs and tinkering with things until they broke. Luckily,
+I was able to fix them. While in high school, I started to mess around
+with a wide array of different technologies, but it all lead to
+cybersecurity. First, I wanted to become a web developer. Turns out that
+wasn't for me. Then, I wanted to become a network engineer. I still like
+networking a lot, but there is something more interesting to me. And that
+is cybersecurity. All of the skills that I had learned over the years set
+me up perfectly to get into security.
 
-Right now, I'm studying to pass the Cisco Certified Networking Associate
-(CCNA) exam. Along with that, I just want to learn as much as I can, while
-also preparing myself for a career in IT.
+Right now, I am continuing to study, practice, and work towards my goals.
+I'm painfully waiting until the day I graduate high school so I can
+really get out there and start working.
 
-My goal is to get a job in IT right after school (which is very soon).
-I'm very excited to start working in the field, gaining real-world
-experience, and further developing my own technical skills.
+My goal is to get a job in IT right after school. I'm very excited to start
+working in the field, gaining real-world experience, and further developing
+my skills.
