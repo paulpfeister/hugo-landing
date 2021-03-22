@@ -44,5 +44,5 @@ theme = "hugo-coder"
 [[menu.main]]
 	name = "Resume"
 	weight = 1
-	url = "resume.pdf"
+	url = "brandon-lynch-resume.pdf"
 
