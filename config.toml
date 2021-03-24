@@ -8,11 +8,7 @@ theme = "hugo-coder"
 	info = "Breaking into IT/Cybersecurity"
 	description = "Brandon Lynch's personal website"
 	keywords = "brandon lynch,network,it,cybersecurity,infosec"
-
 	colorScheme = "auto"
-
-[taxonomies]
-	category = "categories"
 
 [[params.social]]
 	name = "Github"
@@ -34,15 +30,14 @@ theme = "hugo-coder"
 	target = "_blank"
 
 [[menu.main]]
-	name = "About"
+	name = "About Me"
 	weight = 1
 	url = "about/"
 [[menu.main]]
-	name = "Certifications"
-	weight = 1
-	url = "certs/"
+	name = "Blog"
+	weight = 2
+	url = "posts/"
 [[menu.main]]
 	name = "Resume"
-	weight = 1
+	weight = 3
 	url = "brandon-lynch-resume.pdf"
-
