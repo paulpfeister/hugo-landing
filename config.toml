@@ -41,3 +41,6 @@ theme = "hugo-coder"
 	name = "Resume"
 	weight = 3
 	url = "brandon-lynch-resume.pdf"
+
+[markup.goldmark.renderer]
+unsafe = true
