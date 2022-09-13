@@ -1,7 +1,7 @@
 baseURL = "https://brandonsnetwork.com/"
 languageCode = "en-us"
 title = "Brandon Lynch"
-theme = "hugo-coder"
+theme = "hugo-coder-nord"
 
 [params]
 	author = "Brandon Lynch"
