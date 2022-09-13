@@ -5,7 +5,7 @@ theme = "hugo-coder-nord"
 
 [params]
 	author = "Brandon Lynch"
-	info = "Breaking into Cybersecurity"
+	info = "Security Engineer"
 	description = "Brandon Lynch's personal website"
 	keywords = "brandon lynch,network,it,cybersecurity,infosec"
 	colorScheme = "auto"
