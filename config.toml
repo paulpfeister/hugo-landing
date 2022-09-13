@@ -37,10 +37,6 @@ theme = "hugo-coder-nord"
 	name = "Blog"
 	weight = 2
 	url = "posts/"
-[[menu.main]]
-	name = "Resume"
-	weight = 3
-	url = "brandon-lynch-resume.pdf"
 
 [markup.goldmark.renderer]
 unsafe = true
