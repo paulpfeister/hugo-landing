@@ -30,7 +30,7 @@ theme = "hugo-coder-nord"
 	target = "_blank"
 
 [[menu.main]]
-	name = "About Me"
+	name = "About"
 	weight = 1
 	url = "about/"
 [[menu.main]]
