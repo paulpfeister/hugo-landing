@@ -3,6 +3,7 @@ draft: false
 date: 2021-03-24T05:52:42-05:00
 title: "eJPT Review | Everything You Need to Know"
 description: "My review and recommendations for anyone taking the eJPT certification exam"
+tags: ["Certifications"]
 ---
 # Overview
 
