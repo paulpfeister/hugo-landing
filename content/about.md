@@ -1,12 +1,26 @@
 ---
-title: "About Me"
-date: 2022-09-12T19:35:01-05:00
+title: "About me"
+date: 2022-12-30T19:35:00-05:00
 draft: false
 ---
 
-Hi, I'm Brandon -- a Cybersecurity Engineer with knowledge of security best practices and
-compliance. I have over two years of IT education and nearly a year of job experience, including
-programming, networking, systems, security, cloud, and more. I work alongside engineering and
-development teams to implement security best practices. I currently hold 8 IT certifications
-with more to come.
+This website has only recently been republished. I'll be adding more to it as time goes on.
 
+In addition to BTL1, I've also had Security+, but that has since expired. As I start to re-certify, either OSCP or a variety of GIAC/SANS certifications are next.
+
+As of updating this, I am in the Top 3% of users on THM. I may begin doing CTF writeups as well.
+
+<script src="https://tryhackme.com/badge/1545309"></script>
+
+# Active certifications
+
+![BTL1 Certification](/images/sbt-badge-btl1.png)
+<br/><br/><br/><br/>
+
+---
+```
+Q291bGRuJ3QgcmVzaXN0IGh1aD8gV2VsbCwgaWYgeW91IGNhbWUgdGhpcyBmYXIuLi5mZWVsIGZy
+ZWUgdG8gZW1haWwgbWUgYXQgZGVjb2RlZFtAXXBmZWlzdGVyWy5dZGV2Lgo=
+```
+
+---

@@ -1,42 +1,41 @@
-baseURL = "https://brandonsnetwork.com/"
+baseURL = "https://pfeister.dev/"
 languageCode = "en-us"
-title = "Brandon Lynch"
+title = "Paul Pfeister"
 theme = "hugo-coder-nord"
 
 [params]
-	author = "Brandon Lynch"
-	info = "Security Engineer"
-	description = "Brandon Lynch's personal website"
-	keywords = "brandon lynch,network,it,cybersecurity,infosec"
+    shortbio = "Hello there..."
+	author = "Paul Pfeister"
+	info = "SSB3b3JrIGluIG9mZmVuc2l2ZSBzZWN1cml0eS4K"
+	description = "Paul Pfeister's personal website"
+	keywords = "paul pfeister,network,it,cybersecurity,infosec,pentesting, penetration test"
 	colorScheme = "auto"
 
 [[params.social]]
 	name = "Github"
 	icon = "fa fa-github fa-2x"
 	weight = 1
-	url = "https://github.com/brandonlynch2402"
-	target = "_blank"
-[[params.social]]
-	name = "Twitter"
-	icon = "fa fa-twitter fa-2x"
-	weight = 3
-	url = "https://twitter.com/thenetcode"
+	url = "https://github.com/paulpfeister"
 	target = "_blank"
 [[params.social]]
 	name = "LinkedIn"
 	icon = "fa fa-linkedin fa-2x"
 	weight = 3
-	url = "https://www.linkedin.com/in/brandon-lynch-cyber"
+	url = "https://www.linkedin.com/in/paulpfeister"
 	target = "_blank"
 
 [[menu.main]]
 	name = "About"
 	weight = 1
 	url = "about/"
-[[menu.main]]
-	name = "Blog"
-	weight = 2
-	url = "posts/"
+#[[menu.main]]
+#	name = "Blog"
+#	weight = 2
+#	url = "posts/"
+#[[menu.main]]
+#    name = "Contact"
+#    weight = 5
+#    url = "contact/"
 
 [markup.goldmark.renderer]
 unsafe = true
